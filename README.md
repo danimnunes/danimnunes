@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Master's course projects<br><br>🌱 I’m currently learning Blockchain<br><br>👯 I’m looking to collaborate on Cybersecurity<br><br>👨‍💻 All of my projects are available at https://github.com/danimnunes<br><br>💬 Ask me about Cybersecurity<br><br>📫 How to reach me danielnunes70@gmail.com<br><br>⚡ Fun fact I love sports
+🔭 I’m currently working on Master's course projects<br><br>🌱 I’m currently learning Blockchain<br><br>👯 I’m looking to collaborate on Cybersecurity<br><br>👨‍💻 All of my projects are available at https://github.com/danimnunes<br><br>💬 Ask me about Cybersecurity<br><br>📫 How to reach me danielnunes70@gmail.com / daniel.m.nunes@tecnico.ulisboa.pt<br><br>⚡ Fun fact I love sports
 
 
 # 💻 Tech Stack:
